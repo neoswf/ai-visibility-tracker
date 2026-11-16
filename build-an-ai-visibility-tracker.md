@@ -280,7 +280,7 @@ can lose close to half its AI answers this way. It is easy to miss, because a
 run that ends "partial" from ordinary noise looks exactly like one that is
 losing half its data.
 
-**If you tracker a non-English market, check coverage per site rather than
+**If you monitor a non-English market, check coverage per site rather than
 trusting a run's status.** Expected answers is prompts due times surfaces;
 anything under about 90% of that, repeatedly, is a bug and not weather.
 
