@@ -1,14 +1,14 @@
-# AI visibility monitor
+# AI visibility tracker
 
-A self-hosted monitor of how ChatGPT and Google's AI answers (AI Overviews and AI Mode) mention and cite a site, next to its competitors. It runs on DataForSEO.
+A self-hosted tracker of how ChatGPT and Google's AI answers (AI Overviews and AI Mode) mention and cite a site, next to its competitors. It runs on DataForSEO.
 
-Built by Shlomi Asaf, [NextTierSEO](https://nexttierseo.com). Why I built it, what it costs to run, and how it compares with the paid tools: [How to build your own AI visibility monitor](https://nexttierseo.com/blog/ai-visibility-monitor/).
+Built by Shlomi Asaf, [NextTierSEO](https://nexttierseo.com). Why I built it, what it costs to run, and how it compares with the paid tools: [How to build your own AI visibility tracker](https://nexttierseo.com/blog/ai-visibility-tracker/).
 
 ## How to build it
 
 1. Open a [DataForSEO](https://dataforseo.com) account and put some credit in it.
 2. Open Claude Code, or another coding agent, in an empty folder.
-3. Give it [build-an-ai-visibility-monitor.md](build-an-ai-visibility-monitor.md) and tell it to build the system.
+3. Give it [build-an-ai-visibility-tracker.md](build-an-ai-visibility-tracker.md) and tell it to build the system.
 
 There's no code in this repository. The file is the full spec, written for a coding agent to read: the database, the collector, the measurement rules, the screens, security and backups, and what breaks.
 
@@ -18,7 +18,7 @@ About $10 to $25 a month per site in DataForSEO credit, measured over 30 days on
 
 ## Want help with it?
 
-[Set the monitor up with me](https://nexttierseo.com/contact/?interest=setup), or [ask for an AI visibility check for your business](https://nexttierseo.com/contact/?interest=audit).
+[Set the tracker up with me](https://nexttierseo.com/contact/?interest=setup), or [ask for an AI visibility check for your business](https://nexttierseo.com/contact/?interest=audit).
 
 ## Licence
 

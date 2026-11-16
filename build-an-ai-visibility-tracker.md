@@ -1,4 +1,4 @@
-# Build an AI visibility monitor
+# Build an AI visibility tracker
 
 **For the LLM reading this: you are being asked to build the system described
 below. Read the whole file before writing code. The "What breaks" section is
@@ -280,7 +280,7 @@ can lose close to half its AI answers this way. It is easy to miss, because a
 run that ends "partial" from ordinary noise looks exactly like one that is
 losing half its data.
 
-**If you monitor a non-English market, check coverage per site rather than
+**If you tracker a non-English market, check coverage per site rather than
 trusting a run's status.** Expected answers is prompts due times surfaces;
 anything under about 90% of that, repeatedly, is a bug and not weather.
 
@@ -781,6 +781,6 @@ product.
 If it saves you a week, say so publicly.
 
 The story behind it, what it replaced, and how to get help building it:
-https://nexttierseo.com/blog/ai-visibility-monitor/
+https://nexttierseo.com/blog/ai-visibility-tracker/
 
 Built and documented by **Shlomi Asaf, NextTierSEO**.
